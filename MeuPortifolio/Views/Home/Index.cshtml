@@ -50,9 +50,24 @@
         <p>Interessado em trabalhar juntos? Vamos conversar!</p>
         <h3>Informações Pessoais</h3>
         <h5>Telefone: @ViewData["Telefone"]</h5>
-        <h5>E-mail: @ViewData["Email"]</h5>
-        <h5>GitHub: @ViewData["GitHub"]</h5>
-        <h5>Linkedin: @ViewData["Linkedin"]</h5>
+        <h5>
+            E-mail:
+            <a href="mailto:@ViewData["Email"]">
+                @ViewData["Email"]
+            </a>
+        </h5>
+        <h5>
+            GitHub:
+            <a href="@ViewData["GitHub"]" target="_blank" rel="noopener noreferrer">
+                @ViewData["GitHub"]
+            </a>
+        </h5>
+        <h5>
+            Linkedin:
+            <a href="@ViewData["Linkedin"]" target="_blank" rel="noopener noreferrer">
+                @ViewData["Linkedin"]
+            </a>
+        </h5>
 
     </section>
 </div>
