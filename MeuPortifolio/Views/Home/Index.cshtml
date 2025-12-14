@@ -2,7 +2,7 @@
     ViewData["Title"] = "Meu Portfolio";
 }
 
-<link rel="stylesheet" href="~/css/portfolio.css" />
+<link rel="stylesheet" href="/css/portifolio.css">
 
 <div class="container">
     <!-- Hero Section -->
@@ -48,7 +48,12 @@
     <section id="contato" class="section">
         <h2>Entre em Contato</h2>
         <p>Interessado em trabalhar juntos? Vamos conversar!</p>
-        <a href="/Home/Contato" class="btn">Enviar Mensagem</a>
+        <h3>Informações Pessoais</h3>
+        <h5>Telefone: @ViewData["Telefone"]</h5>
+        <h5>E-mail: @ViewData["Email"]</h5>
+        <h5>GitHub: @ViewData["GitHub"]</h5>
+        <h5>Linkedin: @ViewData["Linkedin"]</h5>
+
     </section>
 </div>
 
