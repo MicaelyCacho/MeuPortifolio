@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|c:\\users\\micaely\\source\\repos\\meuportifolio\\meuportifolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|c:\\users\\micaely\\source\\repos\\meuportifolio\\meuportifolio\\wwwroot\\css\\portifolio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|solutionrelative:wwwroot\\css\\portifolio.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|c:\\users\\micaely\\source\\repos\\meuportifolio\\meuportifolio\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E40ED6FE-0EAA-CD09-9154-58AD5124F222}|MeuPortifolio.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "portifolio.css",
+              "DocumentMoniker": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\wwwroot\\css\\portifolio.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\portifolio.css",
+              "ToolTip": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\wwwroot\\css\\portifolio.css",
+              "RelativeToolTip": "wwwroot\\css\\portifolio.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-14T19:38:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-12-14T19:12:11.502Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Micaely\\source\\repos\\MeuPortifolio\\MeuPortifolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-14T18:58:31.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

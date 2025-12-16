@@ -32,3 +32,4 @@ C:\Users\Micaely\source\repos\MeuPortifolio\MeuPortifolio\obj\Debug\net8.0\refin
 C:\Users\Micaely\source\repos\MeuPortifolio\MeuPortifolio\obj\Debug\net8.0\MeuPortifolio.pdb
 C:\Users\Micaely\source\repos\MeuPortifolio\MeuPortifolio\obj\Debug\net8.0\MeuPortifolio.genruntimeconfig.cache
 C:\Users\Micaely\source\repos\MeuPortifolio\MeuPortifolio\obj\Debug\net8.0\ref\MeuPortifolio.dll
+C:\Users\Micaely\source\repos\MeuPortifolio\MeuPortifolio\obj\Debug\net8.0\MeuPortifolio.sourcelink.json
