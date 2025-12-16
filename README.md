@@ -34,7 +34,7 @@ Abra no navegador:
 http://localhost:5000
 https://localhost:5001
 
-Ou acesse o link de deploy: 
+Ou acesse o link de deploy: https://meuportifolio.fly.dev/
 
 ## Tecnologias que usei
 Frontend: HTML, CSS, JavaScript, Bootstrap
